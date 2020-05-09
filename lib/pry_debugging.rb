@@ -1,5 +1,4 @@
 def plus_two(num)
 	return num+2
-	puts num
 end
-plus_two(um=3)
+plus_two(3)
